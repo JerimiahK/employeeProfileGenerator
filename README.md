@@ -8,4 +8,4 @@ To use this web application, the user must have Node.js installed on their devic
 
 Github Repo: https://github.com/JerimiahK/employeeProfileGenerator.git
 Video Link: https://drive.google.com/file/d/1O45P0wDyyjgarn35aHreYpxwqCUiCz8k/view
-Generated HTML: 
+Generated HTML: https://github.com/JerimiahK/employeeProfileGenerator/blob/main/index.html
